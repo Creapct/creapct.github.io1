@@ -9,8 +9,8 @@ ul.over{
      background: #fff;
   }
   .over img{
-     width: 48%;
-     height: 32%;
+     width: 32%;
+     height: auto;
      display:;
      opacity: 1;
      transition: 0.2s;
